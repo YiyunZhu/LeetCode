@@ -7,4 +7,4 @@
 | 387 |  [First Unique Character in a String](https://github.com/YiyunZhu/LeetCode/tree/master/387.First_Unique_Character_in_a_String) | [Python](https://github.com/YiyunZhu/LeetCode/blob/master/387.First_Unique_Character_in_a_String/solution387.py) |
 
 
-In order to read the equation in the markdown file, you can download the Google plugin [Github with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima).
+In order to display equations perfectly in the markdown file, you can download the Google plugin [Github with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima).
